@@ -1,1 +1,2 @@
-# -worlddev-config-store
+# Worlddev Config Store
+Contains worlddev's bookshop system configurations values
